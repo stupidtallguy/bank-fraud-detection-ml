@@ -152,47 +152,6 @@ RandomForestClassifier(
 
 ---
 
-## 📸 Visualizations
-
-The project includes 12 comprehensive visualizations:
-
-<table>
-<tr>
-<td width="50%">
-
-### 1. Class Distribution
-![Class Distribution](plots/fig_class_distribution.png)
-*Severe imbalance: 210:1 ratio*
-
-</td>
-<td width="50%">
-
-### 2. Confusion Matrix
-![Confusion Matrix](plots/fig_confusion_matrix.png)
-*High precision & recall*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 3. ROC Curve
-![ROC Curve](plots/fig_roc_curve.png)
-*AUC = 0.9891 (Excellent)*
-
-</td>
-<td width="50%">
-
-### 4. Feature Importance
-![Feature Importance](plots/fig_feature_importance.png)
-*V10 and V14 most critical*
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
