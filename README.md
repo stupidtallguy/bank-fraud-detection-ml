@@ -30,26 +30,11 @@ This project tackles the critical challenge of detecting fraudulent transactions
 bank-fraud-detection-ml/
 │
 ├── fraud_detection_project.ipynb    # Main Jupyter notebook with full analysis
-├── fraud_detection_report.tex       # Professional LaTeX report
 ├── README.md                         # This file
-├── requirements.txt                  # Python dependencies
 │
 ├── data/                            # Dataset directory
 │   └── fraud_detection_2.csv        # Transaction data (not included - add your own)
 │
-├── plots/                           # Generated visualizations
-│   ├── fig_class_distribution.png
-│   ├── fig_histogram_amount.png
-│   ├── fig_histogram_features.png
-│   ├── fig_violin_plots.png
-│   ├── fig_scatter_2d.png
-│   ├── fig_scatter_3d.png
-│   ├── fig_amount_category.png
-│   ├── fig_correlation.png
-│   ├── fig_confusion_matrix.png
-│   ├── fig_roc_curve.png
-│   ├── fig_feature_importance.png
-│   └── fig_model_comparison.png
 │
 └── report/                          # Compiled report
     └── fraud_detection_report.pdf
